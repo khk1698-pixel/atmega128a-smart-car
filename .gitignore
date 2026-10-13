@@ -1,0 +1,12 @@
+Debug/
+Release/
+.vs/
+*.o
+*.d
+*.elf
+*.map
+*.lss
+*.eep
+*.srec
+*.atsuo
+*.user
